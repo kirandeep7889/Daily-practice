@@ -1,0 +1,35 @@
+#main-heading{
+    color: red; 
+    font-size: 24px; 
+    background: red;
+    color:aliceblue;
+}
+
+#sample-paragraph{
+    background-color: yellow;
+     padding: 10px;
+}
+.container-1{
+    border: 1px solid black;
+    margin-bottom:10px;
+    background-color: red;
+}
+.section-heading{
+    color: blue;
+
+}
+.list-item-bold{
+    font-weight: bold;
+}
+.lis-item-italic{
+    font-weight: italic
+}
+
+.container-2{
+    border: 1px solid black;
+    background-color: red;
+}
+
+#centered-text{
+    text-align: center;
+}
