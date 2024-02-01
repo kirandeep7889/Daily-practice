@@ -1,0 +1,129 @@
+
+.header{
+    display: flex;
+    justify-content: center;
+}
+
+#main-header h1{
+    font-weight: lighter;
+}
+#main-header{
+    width:710px;
+    height: 50px;
+    background-color: aqua;
+    color: white;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+#main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* justify-content: start; */
+}
+#nav-left{
+    width:200px;
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-between ; */
+    height: 400px;
+}
+
+#Hero{
+    margin-top: 10px;
+    height: 200px;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+    background-color: #ab9aad;
+    color: aliceblue;
+    margin-bottom: 10px;
+}
+
+#Sidebar{
+    height: 200px;
+    width: 200px;
+    background-color: #69803d;
+    color: aliceblue;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#center{
+    /* display: inline; */
+    display: flex;
+    flex-direction: column;
+}
+
+#mainContent{
+    height: 250px;
+    width: 500px;
+    background-color: goldenrod;
+    color:white;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#extraContent{
+    height: 130px;
+    width: 500px;
+    background-color:grey;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#bottom{
+    display: flex;
+    justify-content: center;
+}
+
+#relatedImages{
+    height: 100px;
+    width: 520px;
+    background-color: green;
+    color: white;
+    margin-right: 10px;
+    display: flex;
+    justify-content: center;
+    /* margin-top: 10px; */
+}
+
+#relatedPosts{
+    height: 100px;
+    width: 180px;
+    background-color: pink;
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+#foot{
+    margin: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+#footer{
+    height: 50px;
+    width: 720px;
+    background-color: orange;
+    color: white;
+    display: flex;
+    justify-content: center;
+
+}
