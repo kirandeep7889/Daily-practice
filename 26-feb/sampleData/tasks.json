@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "title": "gym",
+    "description": "I will go to gym today",
+    "completed": false
+  },
+  {
+    "id": "2",
+    "title": "sleep",
+    "description": "I will sleep at 11pm tonight",
+    "completed": true
+  },
+  {
+    "id": "ebccf132-193b-4672-953e-48c2b3cded1c",
+    "title": "study",
+    "description": "I will study expressJS today",
+    "completed": true
+  }
+]
