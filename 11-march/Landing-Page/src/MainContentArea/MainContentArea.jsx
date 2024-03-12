@@ -9,7 +9,7 @@ import {
 } from "react-icons/fa";
 
 
-import "./MainContentArea.scss"
+import "./MainContentArea.css"
 
 
 export default function MainContentArea() {

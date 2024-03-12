@@ -1,7 +1,7 @@
 import {CgShoppingCart} from 'react-icons/cg';
 import {TbSearch} from 'react-icons/tb';
 import {AiOutlineHeart} from 'react-icons/ai'
-import "./Header.scss";
+import "./Header.css";
 
 
  export default function Header() {
