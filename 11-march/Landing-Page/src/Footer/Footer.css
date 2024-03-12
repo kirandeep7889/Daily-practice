@@ -1,0 +1,38 @@
+/* styles.css */
+footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #212121;
+    color: #fff;
+    padding: 20px;
+    height: 50px;
+  
+  }
+  
+  .footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .social-media a {
+    color: #fff;
+    margin-right: 10px;
+    text-decoration: none;
+    font-size: x-large;
+  }
+  
+  .website-description p {
+    margin: 5px 0;
+  }
+  
+  .additional-info p {
+    margin: 5px 0;
+  }
+  
+
+  .social-media a:hover{
+          opacity: 0.6;
+  }
