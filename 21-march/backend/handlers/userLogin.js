@@ -1,5 +1,6 @@
-User
 const User = require("../db/db");
+
+User
 
  async function UserLogin(req,res) {
     try {
