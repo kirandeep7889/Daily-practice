@@ -1,0 +1,45 @@
+/* UpdatePage.css */
+.update-page {
+    max-width: 650px;
+    margin: 100px auto;
+    background-color: #f0f0f0; 
+    padding: 30px;
+    border-radius: 10px;
+    
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.1); 
+  }
+  
+  .update-page h1 {
+    font-size: 36px;
+    text-align: center;
+    background-image: linear-gradient(to right, #ff6b6b, #556270);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shadow-animation 2s ease infinite alternate;
+    background-clip: text; 
+    -moz-background-clip: text;
+  
+  }
+  
+  .todo-input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  .update-button {
+    background-color: #2196f3;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .update-button:hover {
+    background-color: #0b7dda;
+  }
+  
